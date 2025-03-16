@@ -1,6 +1,4 @@
 import skills from "@/lib/data/skills";
-import Image from "next/image";
-import React from "react";
 import InfiniteCarousel from "../ui/infinite-carousel";
 
 export default function Skills() {

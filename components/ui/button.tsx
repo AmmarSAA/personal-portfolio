@@ -2,7 +2,7 @@
 
 import { cn } from "@/lib/utils";
 import Image from "next/image";
-import './button.css'; // Import the CSS file here
+import './button.css';
 
 interface IconButtonProps {
   type?: "primary";
@@ -24,7 +24,7 @@ export default function Button({
     <div
       className={cn(
         defaultClasses,
-        primaryClasses
+        primaryClasses,
       )}
     >
       <button>{text}</button>

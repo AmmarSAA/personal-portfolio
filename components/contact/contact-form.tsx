@@ -66,7 +66,7 @@ export default function ContactForm() {
 
   return (
     <form className="w-full xl:w-5/12">
-      <div className="rounded-md bg-secondary-background p-2 shadow-md md:p-3">
+      <div className="rounded-md bg-secondary-background py-2 px-3 shadow-md md:py-3 md:px-5">
         <div className="flex flex-col gap-4">
           <div>
             <FormInput

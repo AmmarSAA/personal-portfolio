@@ -1,12 +1,11 @@
 :root {
-  --main-color: #5e35b1;       /* Define your main color (Deep Purple) */
-  --primary-color: #fff;       /* Define your primary text color */
-  --dark-main-color: #3d2a6d;  /* Define a darker shade of Deep Purple for hover */
+  --main-color: #5e35b1;      
+  --primary-color: #fff;       
+  --dark-main-color: #3d2a6d;
 }
 
 /* Button styles */
 .button-primary {
-
   text-align: center;
   text-transform: uppercase;
   transition: 0.5s;
@@ -20,7 +19,7 @@
   user-select: none;
   -webkit-user-select: none;
   touch-action: manipulation;
-  padding: 12px 25px; /* Added padding */
+  padding: 8px 25px;
 }
 
 .button-primary:hover {

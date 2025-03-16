@@ -2,26 +2,15 @@ export default function AboutText() {
   return (
     <div className="space-y-3 font-secondary text-base text-secondary-foreground text-justify leading-6 tracking-tight md:text-xl xl:text-2xl xl:text-center">
       <p>
-        Hello, I&apos;m Rahul, a{" "}
-        <span className="text-typewriter">
-          passionate and seasoned programmer
-        </span>{" "}
-        deeply immersed in the world of technology. With a strong foundation in
-        <span className="text-typewriter"> JavaScript</span>, I excel in crafting
-        dynamic and innovative solutions across various web application
-        frameworks. I have a keen interest in exploring diverse technologies and
-        thrive on solving complex problems.
+        Hi, I&apos;m Rahul, a{" "}
+        <span className="text-typewriter">full stack developer</span> who loves building things with code. I work mainly with{" "}
+        <span className="text-typewriter">JavaScript</span> and enjoy creating both{" "}
+        web applications and mobile apps. I focus on writing clean, efficient code and turning ideas into real products.
       </p>
       <p>
-        My journey in programming has been marked by a relentless drive for{" "}
-        <span className="text-typewriter">learning and self-improvement</span>.
-        I am known for my{" "}
-        <span className="text-typewriter">quick adaptability</span> and
-        enthusiasm in embracing new challenges. From frontend to backend
-        development, I enjoy leveraging my skills to create impactful and{" "}
-        <span className="text-typewriter">user-friendly web experiences</span>.
-        I am actively seeking opportunities that allow me to apply my{" "}
-        <span className="text-typewriter">expertise and creativity</span>.
+        Over the years, I&apos;ve worked on{" "}
+        <span className="text-typewriter">frontend and backend projects</span>, and I&apos;m always excited to learn something new. I also have experience building{" "}
+        <span className="text-typewriter">cross-platform mobile apps using React Native</span>. Whether it&apos;s a website, an API, or an app, I like solving problems and making things work smoothly.
       </p>
     </div>
   );
