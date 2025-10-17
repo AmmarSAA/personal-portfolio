@@ -70,6 +70,9 @@ const RESUME_LINK = "YOUR RESUME LINK HERE";
 - [tailwind-merge](https://github.com/dcastil/tailwind-merge)
 - [Prettier](https://prettier.io/)
 
+## 🌟 Also Available as a WordPress Theme
+If you’d like to use a WordPress version of this portfolio, check out this adaptation [AmmarSAA/Web-Developer-Portfolio-Wordpress-Theme](https://github.com/AmmarSAA/Web-Developer-Portfolio-Wordpress-Theme)
+
 ## 💖 Show Support
 
 Give a ⭐️ if you liked this project!
